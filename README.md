@@ -1,8 +1,8 @@
-### Задание 1
-## Cкриншот авторизации в админке
+## Задание 1
+### Cкриншот авторизации в админке
 ![Ссылка 1](https://github.com/bag2000/hw-8-01/blob/main/zab-ag-01.png)
   
-## Текст использованных команд
+### Текст использованных команд
 sudo apt install postgresql  
   
 wget https://repo.zabbix.com/zabbix/6.4/debian/pool/main/z/zabbix-release/zabbix-release_6.4-1+debian11_all.deb  
@@ -22,19 +22,19 @@ DBPassword=1234567890
 sudo systemctl restart zabbix-server apache2  
 sudo systemctl enable zabbix-server apache2  
   
-### Задание 2
-## Скриншот раздела Сбор данных > Узлы сети
+## Задание 2
+### Скриншот раздела Сбор данных > Узлы сети
 ![Ссылка 2](https://github.com/bag2000/hw-8-01/blob/main/zab-ag-01.png)
   
-## Скриншот лога zabbix agent
+### Скриншот лога zabbix agent
 ![Ссылка 3](https://github.com/bag2000/hw-8-01/blob/main/zab-ag-02.png)
   
-## Скриншот раздела Мониторинг > Последние данные
+### Скриншот раздела Мониторинг > Последние данные
 ![Ссылка 4](https://github.com/bag2000/hw-8-01/blob/main/zab-ag-03.png)
   
 ![Ссылка 5](https://github.com/bag2000/hw-8-01/blob/main/zab-ag-04.png)
   
-## Текст использованных команд
+### Текст использованных команд
 wget https://repo.zabbix.com/zabbix/6.4/debian/pool/main/z/zabbix-release/zabbix-release_6.4-1+debian11_all.deb  
 sudo dpkg -i zabbix-release_6.4-1+debian11_all.deb  
 sudo apt update  
