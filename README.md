@@ -1,6 +1,6 @@
 ## ELK - FOPS-10 - Поляков Роман
 ## Задание 1. Elasticsearch  
-### скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch  
+### Скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch  
 ![Ссылка 1](https://github.com/bag2000/hw-8-01/blob/main/less-01.png)
 
 ## Задание 2. Kibana
